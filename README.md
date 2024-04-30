@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @denniskariuki
-- 👀 I’m interested in Kotlin Programming
-- 🌱 I’m currently learning Android Programming specializing in Kotlin
-- 💞️ I’m looking to collaborate on different Kotlin Projects
+- 👋 Hi, I’m Dennis Kariuki
+- 👀 I’m interested in Data Analytics and Data Science
+- 🌱 I’m currently learning Both Data Analytics and Data Science
+- 💞️ I’m looking to collaborate on different Data Science Projects
 - 📫 How to reach me on denkarish@gmail.com or send a quick SMS on +254712041413
 
 <!---
