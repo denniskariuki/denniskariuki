@@ -1,6 +1,6 @@
 🚀 Passionate ICT Trainer & Multifaceted Writer | Aspiring Data Analyst, Data Scientist 📊
 
-For over a decade, I've thrived at the intersection of technology, education, and creative expression. With 3 years of experience as an ICT trainer, I've had the privilege of guiding individuals through the ever-evolving landscape of technology. From foundational skills to advanced applications, I've empowered learners to harness the full potential of digital tools with confidence and proficiency.
+I've thrived at the intersection of technology, education, and creative expression. With 3 years of experience as an ICT trainer, I've had the privilege of guiding individuals through the ever-evolving landscape of technology. From foundational skills to advanced applications, I've empowered learners to harness the full potential of digital tools with confidence and proficiency.
 
 In parallel, my journey as an academic, essay, and content writer spans 12 enriching years. Through the written word, I've explored diverse realms of knowledge, crafting compelling narratives that inform, inspire, and provoke thought. Whether delving into complex academic subjects or distilling industry insights into accessible content, I'm driven by a relentless pursuit of clarity and impact.
 
